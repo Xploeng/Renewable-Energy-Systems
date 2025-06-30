@@ -1,4 +1,5 @@
 *.csv
+/tmp/*
 !data/Realised_Supply_Germany.csv
 !data/Weather_Data_Germany_2022.csv
 !data/Weather_Data_Germany.csv
