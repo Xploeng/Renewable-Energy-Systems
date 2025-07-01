@@ -2,6 +2,8 @@
 
 This is a tutorial for Solar Supply Forecasting with XGBoost.
 
+Creator: Julius Rau
+
 ## Usage
 
 ### Data
